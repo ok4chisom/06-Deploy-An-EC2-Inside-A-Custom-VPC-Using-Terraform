@@ -26,34 +26,34 @@ Configure AWS provider <br/>
 <img src="https://i.imgur.com/SOBKW5E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create VPC:  <br/>
+Create VPC  <br/>
 <img src="https://i.imgur.com/P6ExVmw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Subnet
+Create Subnet<br/>
 <img src="https://i.imgur.com/zm6Ijka.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Internet Gateway
+Create Internet Gateway<br/>
 <img src="https://i.imgur.com/WTfe5gj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Route Tables and assoiciate subnet to route table
+Create Route Tables and assoiciate subnet to route table<br/>
 <img src="https://i.imgur.com/s3eHtFG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Security Group
+Create Security Group<br/>
 <img src="https://i.imgur.com/Su2GEOm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create EC2 instance
+Create EC2 instance<br/>
 <img src="https://i.imgur.com/HHTmT8j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Run terraform init -> terraform plan -> terraform apply
 
 Launch your website
-- Copy paste your public ip and paste in your browser. You should see your website.
+- Copy paste your public ip and paste in your browser. You should see your website
 <img src="https://i.imgur.com/o8ur737.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
